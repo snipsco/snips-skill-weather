@@ -71,7 +71,7 @@ async function handle(topic, data) {
         console.log(period);
         console.log(location);
         // console.log(info);
-        // console.log(info.data.weather);
+        console.log(info.data.weather);
     } catch (err) {
         console.log(err);
         err.formulate(locale);

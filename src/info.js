@@ -16,16 +16,14 @@ class Info {
         try {
             response = await axios(request);
         } catch (err) {
-            if (error.response)
+            if (err.response)
                 throw new CustomError(err.message, 'APIReponse');
             else if (error.request)
                 throw new CustomError(err.message, 'APIRequest');
             else
                 throw new CustomError(err.message, 'API');
         }
-        this.data = response.data.list;
-        // console.log(this.data);
-        
+        this.data = response.data.list;        
     }
 
     trim(period) {
