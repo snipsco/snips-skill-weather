@@ -1,0 +1,1160 @@
+{
+  "Canada": {
+    "geonameid": "6251999", 
+    "country": "CA", 
+    "value": "Canada", 
+    "population": 33679000
+  }, 
+  "Turkmenistan": {
+    "geonameid": "1218197", 
+    "country": "TM", 
+    "value": "Turkmenistan", 
+    "population": 4940916
+  }, 
+  "Sud-Soudan": {
+    "geonameid": "7909807", 
+    "country": "SS", 
+    "value": "Sud-Soudan", 
+    "population": 8260490
+  }, 
+  "Espagne": {
+    "geonameid": "2510769", 
+    "country": "ES", 
+    "value": "Espagne", 
+    "population": 46505963
+  }, 
+  "Vatican": {
+    "geonameid": "3164670", 
+    "country": "VA", 
+    "value": "Vatican", 
+    "population": 921
+  }, 
+  "Bahamas": {
+    "geonameid": "3572887", 
+    "country": "BS", 
+    "value": "Bahamas", 
+    "population": 301790
+  }, 
+  "Fidji": {
+    "geonameid": "2205218", 
+    "country": "FJ", 
+    "value": "Fidji", 
+    "population": 875983
+  }, 
+  "Belize": {
+    "geonameid": "3582678", 
+    "country": "BZ", 
+    "value": "Belize", 
+    "population": 314522
+  }, 
+  "Turquie": {
+    "geonameid": "298795", 
+    "country": "TR", 
+    "value": "Turquie", 
+    "population": 77804122
+  }, 
+  "Burkina Faso": {
+    "geonameid": "2361809", 
+    "country": "BF", 
+    "value": "Burkina Faso", 
+    "population": 16241811
+  }, 
+  "Argentine": {
+    "geonameid": "3865483", 
+    "country": "AR", 
+    "value": "Argentine", 
+    "population": 41343201
+  }, 
+  "Bolivie": {
+    "geonameid": "3923057", 
+    "country": "BO", 
+    "value": "Bolivie", 
+    "population": 9947418
+  }, 
+  "Ghana": {
+    "geonameid": "2300660", 
+    "country": "GH", 
+    "value": "Ghana", 
+    "population": 24339838
+  }, 
+  "Togo": {
+    "geonameid": "2363686", 
+    "country": "TG", 
+    "value": "Togo", 
+    "population": 6587239
+  }, 
+  "Ouganda": {
+    "geonameid": "226074", 
+    "country": "UG", 
+    "value": "Ouganda", 
+    "population": 33398682
+  }, 
+  "Trinité-et-Tobago": {
+    "geonameid": "3573591", 
+    "country": "TT", 
+    "value": "Trinité-et-Tobago", 
+    "population": 1328019
+  }, 
+  "Guatemala": {
+    "geonameid": "3595528", 
+    "country": "GT", 
+    "value": "Guatemala", 
+    "population": 13550440
+  }, 
+  "Guinée équatoriale": {
+    "geonameid": "2309096", 
+    "country": "GQ", 
+    "value": "Guinée équatoriale", 
+    "population": 1014999
+  }, 
+  "eSwatini": {
+    "geonameid": "934841", 
+    "country": "SZ", 
+    "value": "eSwatini", 
+    "population": 1354051
+  }, 
+  "Liberia": {
+    "geonameid": "2275384", 
+    "country": "LR", 
+    "value": "Liberia", 
+    "population": 3685076
+  }, 
+  "Maldives": {
+    "geonameid": "1282028", 
+    "country": "MV", 
+    "value": "Maldives", 
+    "population": 395650
+  }, 
+  "Singapour": {
+    "geonameid": "1880251", 
+    "country": "SG", 
+    "value": "Singapour", 
+    "population": 4701069
+  }, 
+  "Allemagne": {
+    "geonameid": "2921044", 
+    "country": "DE", 
+    "value": "Allemagne", 
+    "population": 81802257
+  }, 
+  "Côte d’Ivoire": {
+    "geonameid": "2287781", 
+    "country": "CI", 
+    "value": "Côte d’Ivoire", 
+    "population": 21058798
+  }, 
+  "Tanzanie": {
+    "geonameid": "149590", 
+    "country": "TZ", 
+    "value": "Tanzanie", 
+    "population": 41892895
+  }, 
+  "Seychelles": {
+    "geonameid": "241170", 
+    "country": "SC", 
+    "value": "Seychelles", 
+    "population": 88340
+  }, 
+  "Gabon": {
+    "geonameid": "2400553", 
+    "country": "GA", 
+    "value": "Gabon", 
+    "population": 1545255
+  }, 
+  "Monaco": {
+    "geonameid": "2993457", 
+    "country": "MC", 
+    "value": "Monaco", 
+    "population": 32965
+  }, 
+  "Tonga": {
+    "geonameid": "4032283", 
+    "country": "TO", 
+    "value": "Tonga", 
+    "population": 122580
+  }, 
+  "Équateur": {
+    "geonameid": "3658394", 
+    "country": "EC", 
+    "value": "Équateur", 
+    "population": 14790608
+  }, 
+  "Pakistan": {
+    "geonameid": "1168579", 
+    "country": "PK", 
+    "value": "Pakistan", 
+    "population": 184404791
+  }, 
+  "Samoa": {
+    "geonameid": "4034894", 
+    "country": "WS", 
+    "value": "Samoa", 
+    "population": 192001
+  }, 
+  "Yémen": {
+    "geonameid": "69543", 
+    "country": "YE", 
+    "value": "Yémen", 
+    "population": 23495361
+  }, 
+  "Pérou": {
+    "geonameid": "3932488", 
+    "country": "PE", 
+    "value": "Pérou", 
+    "population": 29907003
+  }, 
+  "Géorgie": {
+    "geonameid": "614540", 
+    "country": "GE", 
+    "value": "Géorgie", 
+    "population": 4630000
+  }, 
+  "Tadjikistan": {
+    "geonameid": "1220409", 
+    "country": "TJ", 
+    "value": "Tadjikistan", 
+    "population": 7487489
+  }, 
+  "Lesotho": {
+    "geonameid": "932692", 
+    "country": "LS", 
+    "value": "Lesotho", 
+    "population": 1919552
+  }, 
+  "Saint-Kitts-et-Nevis": {
+    "geonameid": "3575174", 
+    "country": "KN", 
+    "value": "Saint-Kitts-et-Nevis", 
+    "population": 51134
+  }, 
+  "Lettonie": {
+    "geonameid": "458258", 
+    "country": "LV", 
+    "value": "Lettonie", 
+    "population": 2217969
+  }, 
+  "Kenya": {
+    "geonameid": "192950", 
+    "country": "KE", 
+    "value": "Kenya", 
+    "population": 40046566
+  }, 
+  "Kirghizistan": {
+    "geonameid": "1527747", 
+    "country": "KG", 
+    "value": "Kirghizistan", 
+    "population": 5776500
+  }, 
+  "Afghanistan": {
+    "geonameid": "1149361", 
+    "country": "AF", 
+    "value": "Afghanistan", 
+    "population": 29121286
+  }, 
+  "Haïti": {
+    "geonameid": "3723988", 
+    "country": "HT", 
+    "value": "Haïti", 
+    "population": 9648924
+  }, 
+  "Bangladesh": {
+    "geonameid": "1210997", 
+    "country": "BD", 
+    "value": "Bangladesh", 
+    "population": 156118464
+  }, 
+  "Nouvelle-Zélande": {
+    "geonameid": "2186224", 
+    "country": "NZ", 
+    "value": "Nouvelle-Zélande", 
+    "population": 4252277
+  }, 
+  "Mongolie": {
+    "geonameid": "2029969", 
+    "country": "MN", 
+    "value": "Mongolie", 
+    "population": 3086918
+  }, 
+  "Émirats Arabes Unis": {
+    "geonameid": "290557", 
+    "country": "AE", 
+    "value": "Émirats Arabes Unis", 
+    "population": 4975593
+  }, 
+  "France": {
+    "geonameid": "3017382", 
+    "country": "FR", 
+    "value": "France", 
+    "population": 64768389
+  }, 
+  "Italie": {
+    "geonameid": "3175395", 
+    "country": "IT", 
+    "value": "Italie", 
+    "population": 60340328
+  }, 
+  "Somalie": {
+    "geonameid": "51537", 
+    "country": "SO", 
+    "value": "Somalie", 
+    "population": 10112453
+  }, 
+  "Rwanda": {
+    "geonameid": "49518", 
+    "country": "RW", 
+    "value": "Rwanda", 
+    "population": 11055976
+  }, 
+  "Laos": {
+    "geonameid": "1655842", 
+    "country": "LA", 
+    "value": "Laos", 
+    "population": 6368162
+  }, 
+  "Bosnie-Herzégovine": {
+    "geonameid": "3277605", 
+    "country": "BA", 
+    "value": "Bosnie-Herzégovine", 
+    "population": 4590000
+  }, 
+  "Nauru": {
+    "geonameid": "2110425", 
+    "country": "NR", 
+    "value": "Nauru", 
+    "population": 10065
+  }, 
+  "Tchad": {
+    "geonameid": "2434508", 
+    "country": "TD", 
+    "value": "Tchad", 
+    "population": 10543464
+  }, 
+  "Taïwan": {
+    "geonameid": "1668284", 
+    "country": "TW", 
+    "value": "Taïwan", 
+    "population": 22894384
+  }, 
+  "Malawi": {
+    "geonameid": "927384", 
+    "country": "MW", 
+    "value": "Malawi", 
+    "population": 15447500
+  }, 
+  "Arménie": {
+    "geonameid": "174982", 
+    "country": "AM", 
+    "value": "Arménie", 
+    "population": 2968000
+  }, 
+  "Cuba": {
+    "geonameid": "3562981", 
+    "country": "CU", 
+    "value": "Cuba", 
+    "population": 11423000
+  }, 
+  "Macédoine": {
+    "geonameid": "718075", 
+    "country": "MK", 
+    "value": "Macédoine", 
+    "population": 2062294
+  }, 
+  "Djibouti": {
+    "geonameid": "223816", 
+    "country": "DJ", 
+    "value": "Djibouti", 
+    "population": 740528
+  }, 
+  "Chine": {
+    "geonameid": "1814991", 
+    "country": "CN", 
+    "value": "Chine", 
+    "population": 1330044000
+  }, 
+  "Thaïlande": {
+    "geonameid": "1605651", 
+    "country": "TH", 
+    "value": "Thaïlande", 
+    "population": 67089500
+  }, 
+  "Ouzbékistan": {
+    "geonameid": "1512440", 
+    "country": "UZ", 
+    "value": "Ouzbékistan", 
+    "population": 27865738
+  }, 
+  "Guinée": {
+    "geonameid": "2420477", 
+    "country": "GN", 
+    "value": "Guinée", 
+    "population": 10324025
+  }, 
+  "Sénégal": {
+    "geonameid": "2245662", 
+    "country": "SN", 
+    "value": "Sénégal", 
+    "population": 12323252
+  }, 
+  "Grèce": {
+    "geonameid": "390903", 
+    "country": "GR", 
+    "value": "Grèce", 
+    "population": 11000000
+  }, 
+  "Cameroun": {
+    "geonameid": "2233387", 
+    "country": "CM", 
+    "value": "Cameroun", 
+    "population": 19294149
+  }, 
+  "Érythrée": {
+    "geonameid": "338010", 
+    "country": "ER", 
+    "value": "Érythrée", 
+    "population": 5792984
+  }, 
+  "Ukraine": {
+    "geonameid": "690791", 
+    "country": "UA", 
+    "value": "Ukraine", 
+    "population": 45415596
+  }, 
+  "Libye": {
+    "geonameid": "2215636", 
+    "country": "LY", 
+    "value": "Libye", 
+    "population": 6461454
+  }, 
+  "São Tomé-et-Principe": {
+    "geonameid": "2410758", 
+    "country": "ST", 
+    "value": "São Tomé-et-Principe", 
+    "population": 175808
+  }, 
+  "Malaisie": {
+    "geonameid": "1733045", 
+    "country": "MY", 
+    "value": "Malaisie", 
+    "population": 28274729
+  }, 
+  "Brunei": {
+    "geonameid": "1820814", 
+    "country": "BN", 
+    "value": "Brunei", 
+    "population": 395027
+  }, 
+  "Centrafrique": {
+    "geonameid": "239880", 
+    "country": "CF", 
+    "value": "Centrafrique", 
+    "population": 4844927
+  }, 
+  "Papouasie-Nouvelle Guinée": {
+    "geonameid": "2088628", 
+    "country": "PG", 
+    "value": "Papouasie-Nouvelle Guinée", 
+    "population": 6064515
+  }, 
+  "Islande": {
+    "geonameid": "2629691", 
+    "country": "IS", 
+    "value": "Islande", 
+    "population": 308910
+  }, 
+  "Liechtenstein": {
+    "geonameid": "3042058", 
+    "country": "LI", 
+    "value": "Liechtenstein", 
+    "population": 35000
+  }, 
+  "Vietnam": {
+    "geonameid": "1562822", 
+    "country": "VN", 
+    "value": "Vietnam", 
+    "population": 89571130
+  }, 
+  "Mali": {
+    "geonameid": "2453866", 
+    "country": "ML", 
+    "value": "Mali", 
+    "population": 13796354
+  }, 
+  "Russie": {
+    "geonameid": "2017370", 
+    "country": "RU", 
+    "value": "Russie", 
+    "population": 140702000
+  }, 
+  "Bulgarie": {
+    "geonameid": "732800", 
+    "country": "BG", 
+    "value": "Bulgarie", 
+    "population": 7148785
+  }, 
+  "Suisse": {
+    "geonameid": "2658434", 
+    "country": "CH", 
+    "value": "Suisse", 
+    "population": 8484100
+  }, 
+  "Namibie": {
+    "geonameid": "3355338", 
+    "country": "NA", 
+    "value": "Namibie", 
+    "population": 2128471
+  }, 
+  "Liban": {
+    "geonameid": "272103", 
+    "country": "LB", 
+    "value": "Liban", 
+    "population": 4125247
+  }, 
+  "Angola": {
+    "geonameid": "3351879", 
+    "country": "AO", 
+    "value": "Angola", 
+    "population": 13068161
+  }, 
+  "Portugal": {
+    "geonameid": "2264397", 
+    "country": "PT", 
+    "value": "Portugal", 
+    "population": 10676000
+  }, 
+  "Barbade": {
+    "geonameid": "3374084", 
+    "country": "BB", 
+    "value": "Barbade", 
+    "population": 285653
+  }, 
+  "Indonésie": {
+    "geonameid": "1643084", 
+    "country": "ID", 
+    "value": "Indonésie", 
+    "population": 242968342
+  }, 
+  "Qatar": {
+    "geonameid": "289688", 
+    "country": "QA", 
+    "value": "Qatar", 
+    "population": 840926
+  }, 
+  "Égypte": {
+    "geonameid": "357994", 
+    "country": "EG", 
+    "value": "Égypte", 
+    "population": 80471869
+  }, 
+  "Slovénie": {
+    "geonameid": "3190538", 
+    "country": "SI", 
+    "value": "Slovénie", 
+    "population": 2007000
+  }, 
+  "Mozambique": {
+    "geonameid": "1036973", 
+    "country": "MZ", 
+    "value": "Mozambique", 
+    "population": 22061451
+  }, 
+  "Corée du Nord": {
+    "geonameid": "1873107", 
+    "country": "KP", 
+    "value": "Corée du Nord", 
+    "population": 22912177
+  }, 
+  "Hongrie": {
+    "geonameid": "719819", 
+    "country": "HU", 
+    "value": "Hongrie", 
+    "population": 9982000
+  }, 
+  "Niger": {
+    "geonameid": "2440476", 
+    "country": "NE", 
+    "value": "Niger", 
+    "population": 15878271
+  }, 
+  "Arabie saoudite": {
+    "geonameid": "102358", 
+    "country": "SA", 
+    "value": "Arabie saoudite", 
+    "population": 25731776
+  }, 
+  "Irlande": {
+    "geonameid": "2963597", 
+    "country": "IE", 
+    "value": "Irlande", 
+    "population": 4622917
+  }, 
+  "Slovaquie": {
+    "geonameid": "3057568", 
+    "country": "SK", 
+    "value": "Slovaquie", 
+    "population": 5455000
+  }, 
+  "Corée du Sud": {
+    "geonameid": "1835841", 
+    "country": "KR", 
+    "value": "Corée du Sud", 
+    "population": 48422644
+  }, 
+  "Finlande": {
+    "geonameid": "660013", 
+    "country": "FI", 
+    "value": "Finlande", 
+    "population": 5244000
+  }, 
+  "Panama": {
+    "geonameid": "3703430", 
+    "country": "PA", 
+    "value": "Panama", 
+    "population": 3410676
+  }, 
+  "Maroc": {
+    "geonameid": "2542007", 
+    "country": "MA", 
+    "value": "Maroc", 
+    "population": 33848242
+  }, 
+  "Costa Rica": {
+    "geonameid": "3624060", 
+    "country": "CR", 
+    "value": "Costa Rica", 
+    "population": 4516220
+  }, 
+  "Luxembourg": {
+    "geonameid": "2960313", 
+    "country": "LU", 
+    "value": "Luxembourg", 
+    "population": 497538
+  }, 
+  "Afrique du Sud": {
+    "geonameid": "953987", 
+    "country": "ZA", 
+    "value": "Afrique du Sud", 
+    "population": 49000000
+  }, 
+  "Andorre": {
+    "geonameid": "3041565", 
+    "country": "AD", 
+    "value": "Andorre", 
+    "population": 84000
+  }, 
+  "Koweït": {
+    "geonameid": "285570", 
+    "country": "KW", 
+    "value": "Koweït", 
+    "population": 2789132
+  }, 
+  "Nigeria": {
+    "geonameid": "2328926", 
+    "country": "NG", 
+    "value": "Nigeria", 
+    "population": 154000000
+  }, 
+  "Antigua-et-Barbuda": {
+    "geonameid": "3576396", 
+    "country": "AG", 
+    "value": "Antigua-et-Barbuda", 
+    "population": 86754
+  }, 
+  "Roumanie": {
+    "geonameid": "798549", 
+    "country": "RO", 
+    "value": "Roumanie", 
+    "population": 21959278
+  }, 
+  "Irak": {
+    "geonameid": "99237", 
+    "country": "IQ", 
+    "value": "Irak", 
+    "population": 29671605
+  }, 
+  "Jamaïque": {
+    "geonameid": "3489940", 
+    "country": "JM", 
+    "value": "Jamaïque", 
+    "population": 2847232
+  }, 
+  "Iran": {
+    "geonameid": "130758", 
+    "country": "IR", 
+    "value": "Iran", 
+    "population": 76923300
+  }, 
+  "Mexique": {
+    "geonameid": "3996063", 
+    "country": "MX", 
+    "value": "Mexique", 
+    "population": 112468855
+  }, 
+  "Australie": {
+    "geonameid": "2077456", 
+    "country": "AU", 
+    "value": "Australie", 
+    "population": 21515754
+  }, 
+  "Monténégro": {
+    "geonameid": "3194884", 
+    "country": "ME", 
+    "value": "Monténégro", 
+    "population": 666730
+  }, 
+  "Bénin": {
+    "geonameid": "2395170", 
+    "country": "BJ", 
+    "value": "Bénin", 
+    "population": 9056010
+  }, 
+  "Brésil": {
+    "geonameid": "3469034", 
+    "country": "BR", 
+    "value": "Brésil", 
+    "population": 201103330
+  }, 
+  "Belgique": {
+    "geonameid": "2802361", 
+    "country": "BE", 
+    "value": "Belgique", 
+    "population": 10403000
+  }, 
+  "Bhutan": {
+    "geonameid": "1252634", 
+    "country": "BT", 
+    "value": "Bhutan", 
+    "population": 699847
+  }, 
+  "Kiribati": {
+    "geonameid": "4030945", 
+    "country": "KI", 
+    "value": "Kiribati", 
+    "population": 92533
+  }, 
+  "Chili": {
+    "geonameid": "3895114", 
+    "country": "CL", 
+    "value": "Chili", 
+    "population": 16746491
+  }, 
+  "Chypre": {
+    "geonameid": "146669", 
+    "country": "CY", 
+    "value": "Chypre", 
+    "population": 1102677
+  }, 
+  "Sierra Leone": {
+    "geonameid": "2403846", 
+    "country": "SL", 
+    "value": "Sierra Leone", 
+    "population": 5245695
+  }, 
+  "Algérie": {
+    "geonameid": "2589581", 
+    "country": "DZ", 
+    "value": "Algérie", 
+    "population": 34586184
+  }, 
+  "Philippines": {
+    "geonameid": "1694008", 
+    "country": "PH", 
+    "value": "Philippines", 
+    "population": 99900177
+  }, 
+  "Gambie": {
+    "geonameid": "2413451", 
+    "country": "GM", 
+    "value": "Gambie", 
+    "population": 1593256
+  }, 
+  "Moldova": {
+    "geonameid": "617790", 
+    "country": "MD", 
+    "value": "Moldova", 
+    "population": 4324000
+  }, 
+  "Inde": {
+    "geonameid": "1269750", 
+    "country": "IN", 
+    "value": "Inde", 
+    "population": 1173108018
+  }, 
+  "Cap-Vert": {
+    "geonameid": "3374766", 
+    "country": "CV", 
+    "value": "Cap-Vert", 
+    "population": 508659
+  }, 
+  "RDC": {
+    "geonameid": "203312", 
+    "country": "CD", 
+    "value": "RDC", 
+    "population": 70916439
+  }, 
+  "Royaume-Uni": {
+    "geonameid": "2635167", 
+    "country": "GB", 
+    "value": "Royaume-Uni", 
+    "population": 62348447
+  }, 
+  "Grenade": {
+    "geonameid": "3580239", 
+    "country": "GD", 
+    "value": "Grenade", 
+    "population": 107818
+  }, 
+  "Salomon": {
+    "geonameid": "2103350", 
+    "country": "SB", 
+    "value": "Salomon", 
+    "population": 559198
+  }, 
+  "Norvège": {
+    "geonameid": "3144096", 
+    "country": "NO", 
+    "value": "Norvège", 
+    "population": 5009150
+  }, 
+  "Estonie": {
+    "geonameid": "453733", 
+    "country": "EE", 
+    "value": "Estonie", 
+    "population": 1291170
+  }, 
+  "Kosovo": {
+    "geonameid": "831053", 
+    "country": "XK", 
+    "value": "Kosovo", 
+    "population": 1800000
+  }, 
+  "Uruguay": {
+    "geonameid": "3439705", 
+    "country": "UY", 
+    "value": "Uruguay", 
+    "population": 3477000
+  }, 
+  "Sainte-Lucie": {
+    "geonameid": "3576468", 
+    "country": "LC", 
+    "value": "Sainte-Lucie", 
+    "population": 160922
+  }, 
+  "République Dominicaine": {
+    "geonameid": "3508796", 
+    "country": "DO", 
+    "value": "République Dominicaine", 
+    "population": 9823821
+  }, 
+  "Comores": {
+    "geonameid": "921929", 
+    "country": "KM", 
+    "value": "Comores", 
+    "population": 773407
+  }, 
+  "Vénézuéla": {
+    "geonameid": "3625428", 
+    "country": "VE", 
+    "value": "Vénézuéla", 
+    "population": 27223228
+  }, 
+  "Colombie": {
+    "geonameid": "3686110", 
+    "country": "CO", 
+    "value": "Colombie", 
+    "population": 47790000
+  }, 
+  "Japon": {
+    "geonameid": "1861060", 
+    "country": "JP", 
+    "value": "Japon", 
+    "population": 127288000
+  }, 
+  "Timor-Leste": {
+    "geonameid": "1966436", 
+    "country": "TL", 
+    "value": "Timor-Leste", 
+    "population": 1154625
+  }, 
+  "Népal": {
+    "geonameid": "1282988", 
+    "country": "NP", 
+    "value": "Népal", 
+    "population": 28951852
+  }, 
+  "Burundi": {
+    "geonameid": "433561", 
+    "country": "BI", 
+    "value": "Burundi", 
+    "population": 9863117
+  }, 
+  "Tuvalu": {
+    "geonameid": "2110297", 
+    "country": "TV", 
+    "value": "Tuvalu", 
+    "population": 10472
+  }, 
+  "Nicaragua": {
+    "geonameid": "3617476", 
+    "country": "NI", 
+    "value": "Nicaragua", 
+    "population": 5995928
+  }, 
+  "Madagascar": {
+    "geonameid": "1062947", 
+    "country": "MG", 
+    "value": "Madagascar", 
+    "population": 21281844
+  }, 
+  "USA": {
+    "geonameid": "6252001", 
+    "country": "US", 
+    "value": "USA", 
+    "population": 310232863
+  }, 
+  "Malte": {
+    "geonameid": "2562770", 
+    "country": "MT", 
+    "value": "Malte", 
+    "population": 403000
+  }, 
+  "Vanuatu": {
+    "geonameid": "2134431", 
+    "country": "VU", 
+    "value": "Vanuatu", 
+    "population": 221552
+  }, 
+  "Maurice": {
+    "geonameid": "934292", 
+    "country": "MU", 
+    "value": "Maurice", 
+    "population": 1294104
+  }, 
+  "Bélarus": {
+    "geonameid": "630336", 
+    "country": "BY", 
+    "value": "Bélarus", 
+    "population": 9685000
+  }, 
+  "Éthiopie": {
+    "geonameid": "337996", 
+    "country": "ET", 
+    "value": "Éthiopie", 
+    "population": 88013491
+  }, 
+  "Azerbaïdjan": {
+    "geonameid": "587116", 
+    "country": "AZ", 
+    "value": "Azerbaïdjan", 
+    "population": 8303512
+  }, 
+  "Suède": {
+    "geonameid": "2661886", 
+    "country": "SE", 
+    "value": "Suède", 
+    "population": 9828655
+  }, 
+  "Cambodge": {
+    "geonameid": "1831722", 
+    "country": "KH", 
+    "value": "Cambodge", 
+    "population": 14453680
+  }, 
+  "Israël": {
+    "geonameid": "294640", 
+    "country": "IL", 
+    "value": "Israël", 
+    "population": 7353985
+  }, 
+  "Saint-Vincent-et-les-Grenadines": {
+    "geonameid": "3577815", 
+    "country": "VC", 
+    "value": "Saint-Vincent-et-les-Grenadines", 
+    "population": 104217
+  }, 
+  "Zambie": {
+    "geonameid": "895949", 
+    "country": "ZM", 
+    "value": "Zambie", 
+    "population": 13460305
+  }, 
+  "Zimbabwe": {
+    "geonameid": "878675", 
+    "country": "ZW", 
+    "value": "Zimbabwe", 
+    "population": 13061000
+  }, 
+  "Congo-Brazzaville": {
+    "geonameid": "2260494", 
+    "country": "CG", 
+    "value": "Congo-Brazzaville", 
+    "population": 3039126
+  }, 
+  "Oman": {
+    "geonameid": "286963", 
+    "country": "OM", 
+    "value": "Oman", 
+    "population": 2967717
+  }, 
+  "Bahreïn": {
+    "geonameid": "290291", 
+    "country": "BH", 
+    "value": "Bahreïn", 
+    "population": 738004
+  }, 
+  "Kazakhstan": {
+    "geonameid": "1522867", 
+    "country": "KZ", 
+    "value": "Kazakhstan", 
+    "population": 15340000
+  }, 
+  "Dominique": {
+    "geonameid": "3575830", 
+    "country": "DM", 
+    "value": "Dominique", 
+    "population": 72813
+  }, 
+  "Pays-Bas": {
+    "geonameid": "2750405", 
+    "country": "NL", 
+    "value": "Pays-Bas", 
+    "population": 16645000
+  }, 
+  "Mauritanie": {
+    "geonameid": "2378080", 
+    "country": "MR", 
+    "value": "Mauritanie", 
+    "population": 3205060
+  }, 
+  "Salvador": {
+    "geonameid": "3585968", 
+    "country": "SV", 
+    "value": "Salvador", 
+    "population": 6052064
+  }, 
+  "Tchéquie": {
+    "geonameid": "3077311", 
+    "country": "CZ", 
+    "value": "Tchéquie", 
+    "population": 10476000
+  }, 
+  "Albanie": {
+    "geonameid": "783754", 
+    "country": "AL", 
+    "value": "Albanie", 
+    "population": 2986952
+  }, 
+  "Guinée-Bissau": {
+    "geonameid": "2372248", 
+    "country": "GW", 
+    "value": "Guinée-Bissau", 
+    "population": 1565126
+  }, 
+  "Jordanie": {
+    "geonameid": "248816", 
+    "country": "JO", 
+    "value": "Jordanie", 
+    "population": 6407085
+  }, 
+  "Paraguay": {
+    "geonameid": "3437598", 
+    "country": "PY", 
+    "value": "Paraguay", 
+    "population": 6375830
+  }, 
+  "Soudan": {
+    "geonameid": "366755", 
+    "country": "SD", 
+    "value": "Soudan", 
+    "population": 35000000
+  }, 
+  "Guyana": {
+    "geonameid": "3378535", 
+    "country": "GY", 
+    "value": "Guyana", 
+    "population": 748486
+  }, 
+  "Danemark": {
+    "geonameid": "2623032", 
+    "country": "DK", 
+    "value": "Danemark", 
+    "population": 5484000
+  }, 
+  "Syrie": {
+    "geonameid": "163843", 
+    "country": "SY", 
+    "value": "Syrie", 
+    "population": 22198110
+  }, 
+  "Croatie": {
+    "geonameid": "3202326", 
+    "country": "HR", 
+    "value": "Croatie", 
+    "population": 4284889
+  }, 
+  "Honduras": {
+    "geonameid": "3608932", 
+    "country": "HN", 
+    "value": "Honduras", 
+    "population": 7989415
+  }, 
+  "Myanmar": {
+    "geonameid": "1327865", 
+    "country": "MM", 
+    "value": "Myanmar", 
+    "population": 53414374
+  }, 
+  "Pologne": {
+    "geonameid": "798544", 
+    "country": "PL", 
+    "value": "Pologne", 
+    "population": 38500000
+  }, 
+  "Serbie": {
+    "geonameid": "6290252", 
+    "country": "RS", 
+    "value": "Serbie", 
+    "population": 7344847
+  }, 
+  "Saint-Marin": {
+    "geonameid": "3168068", 
+    "country": "SM", 
+    "value": "Saint-Marin", 
+    "population": 31477
+  }, 
+  "Tunisie": {
+    "geonameid": "2464461", 
+    "country": "TN", 
+    "value": "Tunisie", 
+    "population": 10589025
+  }, 
+  "Surinam": {
+    "geonameid": "3382998", 
+    "country": "SR", 
+    "value": "Surinam", 
+    "population": 492829
+  }, 
+  "Botswana": {
+    "geonameid": "933860", 
+    "country": "BW", 
+    "value": "Botswana", 
+    "population": 2029307
+  }, 
+  "Lituanie": {
+    "geonameid": "597427", 
+    "country": "LT", 
+    "value": "Lituanie", 
+    "population": 2944459
+  }, 
+  "Sri Lanka": {
+    "geonameid": "1227603", 
+    "country": "LK", 
+    "value": "Sri Lanka", 
+    "population": 21513990
+  }, 
+  "Autriche": {
+    "geonameid": "2782113", 
+    "country": "AT", 
+    "value": "Autriche", 
+    "population": 8205000
+  }
+}

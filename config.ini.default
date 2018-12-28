@@ -1,0 +1,6 @@
+[global]
+
+[secret]
+api_key=
+locale=english
+default_location="New York City"

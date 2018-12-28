@@ -1,0 +1,1344 @@
+{
+  "Tessin": {
+    "geonameid": "2658370", 
+    "country": "CH", 
+    "value": "Tessin", 
+    "population": 317006
+  }, 
+  "Hautes-Alpes": {
+    "geonameid": "3013738", 
+    "country": "FR", 
+    "value": "Hautes-Alpes", 
+    "population": 141153
+  }, 
+  "Canton de Bâle-Campagne": {
+    "geonameid": "2661603", 
+    "country": "CH", 
+    "value": "Canton de Bâle-Campagne", 
+    "population": 265585
+  }, 
+  "Tarn": {
+    "geonameid": "2973362", 
+    "country": "FR", 
+    "value": "Tarn", 
+    "population": 385722
+  }, 
+  "Normandie": {
+    "geonameid": "11071621", 
+    "country": "FR", 
+    "value": "Normandie", 
+    "population": 3322757
+  }, 
+  "Obwald": {
+    "geonameid": "2659315", 
+    "country": "CH", 
+    "value": "Obwald", 
+    "population": 33717
+  }, 
+  "Paris": {
+    "geonameid": "2968815", 
+    "country": "FR", 
+    "value": "Paris", 
+    "population": 2257981
+  }, 
+  "Hérault": {
+    "geonameid": "3013500", 
+    "country": "FR", 
+    "value": "Hérault", 
+    "population": 1050026
+  }, 
+  "Ville de Dudelange": {
+    "geonameid": "2960635", 
+    "country": "LU", 
+    "value": "Ville de Dudelange", 
+    "population": 0
+  }, 
+  "Arrondissement administratif de Frutigen-Bas-Simmental": {
+    "geonameid": "8260135", 
+    "country": "CH", 
+    "value": "Arrondissement administratif de Frutigen-Bas-Simmental", 
+    "population": 39347
+  }, 
+  "Seine-et-Marne": {
+    "geonameid": "2975249", 
+    "country": "FR", 
+    "value": "Seine-et-Marne", 
+    "population": 1335284
+  }, 
+  "Jura-Nord Vaudois": {
+    "geonameid": "7285004", 
+    "country": "CH", 
+    "value": "Jura-Nord Vaudois", 
+    "population": 84533
+  }, 
+  "Département de la Corse-du-Sud": {
+    "geonameid": "3023514", 
+    "country": "FR", 
+    "value": "Département de la Corse-du-Sud", 
+    "population": 143724
+  }, 
+  "Doubs": {
+    "geonameid": "3020989", 
+    "country": "FR", 
+    "value": "Doubs", 
+    "population": 539992
+  }, 
+  "Ville de Rumelange": {
+    "geonameid": "2960124", 
+    "country": "LU", 
+    "value": "Ville de Rumelange", 
+    "population": 0
+  }, 
+  "Calvados": {
+    "geonameid": "3029094", 
+    "country": "FR", 
+    "value": "Calvados", 
+    "population": 697054
+  }, 
+  "Var": {
+    "geonameid": "2970749", 
+    "country": "FR", 
+    "value": "Var", 
+    "population": 1025201
+  }, 
+  "Jura Bernois": {
+    "geonameid": "8260140", 
+    "country": "CH", 
+    "value": "Jura Bernois", 
+    "population": 52251
+  }, 
+  "Haut-Rhin": {
+    "geonameid": "3013663", 
+    "country": "FR", 
+    "value": "Haut-Rhin", 
+    "population": 764064
+  }, 
+  "Meurthe-et-Moselle": {
+    "geonameid": "2994111", 
+    "country": "FR", 
+    "value": "Meurthe-et-Moselle", 
+    "population": 745134
+  }, 
+  "Haute-Marne": {
+    "geonameid": "3013757", 
+    "country": "FR", 
+    "value": "Haute-Marne", 
+    "population": 192224
+  }, 
+  "Moselle": {
+    "geonameid": "2991627", 
+    "country": "FR", 
+    "value": "Moselle", 
+    "population": 1066328
+  }, 
+  "Bretagne": {
+    "geonameid": "3030293", 
+    "country": "FR", 
+    "value": "Bretagne", 
+    "population": 3120288
+  }, 
+  "Ville de Wiltz": {
+    "geonameid": "2959978", 
+    "country": "LU", 
+    "value": "Ville de Wiltz", 
+    "population": 0
+  }, 
+  "Sarine": {
+    "geonameid": "6458767", 
+    "country": "CH", 
+    "value": "Sarine", 
+    "population": 99245
+  }, 
+  "Commune de Pétange": {
+    "geonameid": "2960188", 
+    "country": "LU", 
+    "value": "Commune de Pétange", 
+    "population": 0
+  }, 
+  "Gironde": {
+    "geonameid": "3015948", 
+    "country": "FR", 
+    "value": "Gironde", 
+    "population": 1464088
+  }, 
+  "Haute-Loire": {
+    "geonameid": "3013760", 
+    "country": "FR", 
+    "value": "Haute-Loire", 
+    "population": 231066
+  }, 
+  "La Chaux-de-Fonds": {
+    "geonameid": "6458831", 
+    "country": "CH", 
+    "value": "La Chaux-de-Fonds", 
+    "population": 39448
+  }, 
+  "Val-d'Oise": {
+    "geonameid": "2971071", 
+    "country": "FR", 
+    "value": "Val-d'Oise", 
+    "population": 1185379
+  }, 
+  "Appenzell Rhodes-Intérieures": {
+    "geonameid": "2661741", 
+    "country": "CH", 
+    "value": "Appenzell Rhodes-Intérieures", 
+    "population": 15717
+  }, 
+  "Eure": {
+    "geonameid": "3019317", 
+    "country": "FR", 
+    "value": "Eure", 
+    "population": 599181
+  }, 
+  "Ville de Diekirch": {
+    "geonameid": "2960658", 
+    "country": "LU", 
+    "value": "Ville de Diekirch", 
+    "population": 0
+  }, 
+  "Corse": {
+    "geonameid": "3023519", 
+    "country": "FR", 
+    "value": "Corse", 
+    "population": 299209
+  }, 
+  "Commune de Troisvierges": {
+    "geonameid": "2960031", 
+    "country": "LU", 
+    "value": "Commune de Troisvierges", 
+    "population": 0
+  }, 
+  "Jura": [
+    {
+      "geonameid": "3012051", 
+      "country": "FR", 
+      "value": "Jura", 
+      "population": 271680
+    }, 
+    {
+      "geonameid": "2660207", 
+      "country": "CH", 
+      "value": "Jura", 
+      "population": 69935
+    }
+  ], 
+  "Porrentruy": {
+    "geonameid": "6458776", 
+    "country": "CH", 
+    "value": "Porrentruy", 
+    "population": 24263
+  }, 
+  "Brabant Flamand": {
+    "geonameid": "3333250", 
+    "country": "BE", 
+    "value": "Brabant Flamand", 
+    "population": 1037335
+  }, 
+  "Loir-et-Cher": {
+    "geonameid": "2997856", 
+    "country": "FR", 
+    "value": "Loir-et-Cher", 
+    "population": 338503
+  }, 
+  "Canton de Berne": {
+    "geonameid": "2661551", 
+    "country": "CH", 
+    "value": "Canton de Berne", 
+    "population": 955658
+  }, 
+  "Commune de Préizerdaul": {
+    "geonameid": "8641291", 
+    "country": "LU", 
+    "value": "Commune de Préizerdaul", 
+    "population": 0
+  }, 
+  "Province de Namur": {
+    "geonameid": "2790469", 
+    "country": "BE", 
+    "value": "Province de Namur", 
+    "population": 0
+  }, 
+  "Ain": {
+    "geonameid": "3038422", 
+    "country": "FR", 
+    "value": "Ain", 
+    "population": 605892
+  }, 
+  "Argovie": {
+    "geonameid": "2661876", 
+    "country": "CH", 
+    "value": "Argovie", 
+    "population": 574171
+  }, 
+  "Monaco": {
+    "geonameid": "3319178", 
+    "country": "MC", 
+    "value": "Monaco", 
+    "population": 0
+  }, 
+  "Yonne": {
+    "geonameid": "2967222", 
+    "country": "FR", 
+    "value": "Yonne", 
+    "population": 354282
+  }, 
+  "Mayenne": {
+    "geonameid": "2994932", 
+    "country": "FR", 
+    "value": "Mayenne", 
+    "population": 315303
+  }, 
+  "Auvergne-Rhône-Alpes": {
+    "geonameid": "11071625", 
+    "country": "FR", 
+    "value": "Auvergne-Rhône-Alpes", 
+    "population": 7695264
+  }, 
+  "Encamp": {
+    "geonameid": "3040684", 
+    "country": "AD", 
+    "value": "Encamp", 
+    "population": 13685
+  }, 
+  "Nidwald": {
+    "geonameid": "2659471", 
+    "country": "CH", 
+    "value": "Nidwald", 
+    "population": 40794
+  }, 
+  "Val-de-Marne": {
+    "geonameid": "2971090", 
+    "country": "FR", 
+    "value": "Val-de-Marne", 
+    "population": 1331443
+  }, 
+  "Alpes-Maritimes": {
+    "geonameid": "3038049", 
+    "country": "FR", 
+    "value": "Alpes-Maritimes", 
+    "population": 1094596
+  }, 
+  "Deux Sèvres": {
+    "geonameid": "3021501", 
+    "country": "FR", 
+    "value": "Deux Sèvres", 
+    "population": 377784
+  }, 
+  "Corrèze": {
+    "geonameid": "3023532", 
+    "country": "FR", 
+    "value": "Corrèze", 
+    "population": 252116
+  }, 
+  "Finistere": {
+    "geonameid": "3018471", 
+    "country": "FR", 
+    "value": "Finistere", 
+    "population": 925442
+  }, 
+  "Käerjeng": {
+    "geonameid": "8641865", 
+    "country": "LU", 
+    "value": "Käerjeng", 
+    "population": 0
+  }, 
+  "Lozère": {
+    "geonameid": "2997288", 
+    "country": "FR", 
+    "value": "Lozère", 
+    "population": 81312
+  }, 
+  "Brabant Wallon": {
+    "geonameid": "3333251", 
+    "country": "BE", 
+    "value": "Brabant Wallon", 
+    "population": 363442
+  }, 
+  "Gard": {
+    "geonameid": "3016670", 
+    "country": "FR", 
+    "value": "Gard", 
+    "population": 718181
+  }, 
+  "Soleure": {
+    "geonameid": "2658563", 
+    "country": "CH", 
+    "value": "Soleure", 
+    "population": 250155
+  }, 
+  "Flandre-Occidentale": {
+    "geonameid": "2783770", 
+    "country": "BE", 
+    "value": "Flandre-Occidentale", 
+    "population": 1136692
+  }, 
+  "Haute-Vienne": {
+    "geonameid": "3013719", 
+    "country": "FR", 
+    "value": "Haute-Vienne", 
+    "population": 383418
+  }, 
+  "Saint-Gall": {
+    "geonameid": "2658821", 
+    "country": "CH", 
+    "value": "Saint-Gall", 
+    "population": 462877
+  }, 
+  "Département de l'Ardèche": {
+    "geonameid": "3037147", 
+    "country": "FR", 
+    "value": "Département de l'Ardèche", 
+    "population": 323516
+  }, 
+  "Département d'Ille-et-Vilaine": {
+    "geonameid": "3012849", 
+    "country": "FR", 
+    "value": "Département d'Ille-et-Vilaine", 
+    "population": 1003933
+  }, 
+  "Vendée": {
+    "geonameid": "2970140", 
+    "country": "FR", 
+    "value": "Vendée", 
+    "population": 645820
+  }, 
+  "Canton de Clervaux": {
+    "geonameid": "6693297", 
+    "country": "LU", 
+    "value": "Canton de Clervaux", 
+    "population": 0
+  }, 
+  "Saint-Maurice": {
+    "geonameid": "6458832", 
+    "country": "CH", 
+    "value": "Saint-Maurice", 
+    "population": 12931
+  }, 
+  "Delémont": {
+    "geonameid": "6458744", 
+    "country": "CH", 
+    "value": "Delémont", 
+    "population": 36609
+  }, 
+  "District de Monthey": {
+    "geonameid": "6458845", 
+    "country": "CH", 
+    "value": "District de Monthey", 
+    "population": 42278
+  }, 
+  "Anvers": {
+    "geonameid": "2803136", 
+    "country": "BE", 
+    "value": "Anvers", 
+    "population": 0
+  }, 
+  "Sarthe": {
+    "geonameid": "2975926", 
+    "country": "FR", 
+    "value": "Sarthe", 
+    "population": 576741
+  }, 
+  "Loire-Atlantique": {
+    "geonameid": "2997861", 
+    "country": "FR", 
+    "value": "Loire-Atlantique", 
+    "population": 1301325
+  }, 
+  "Arrondissement administratif de Bienne": {
+    "geonameid": "8260136", 
+    "country": "CH", 
+    "value": "Arrondissement administratif de Bienne", 
+    "population": 95718
+  }, 
+  "Côte-d'Or": {
+    "geonameid": "3023423", 
+    "country": "FR", 
+    "value": "Côte-d'Or", 
+    "population": 538259
+  }, 
+  "Vienne": {
+    "geonameid": "2969280", 
+    "country": "FR", 
+    "value": "Vienne", 
+    "population": 437411
+  }, 
+  "Oise": {
+    "geonameid": "2989663", 
+    "country": "FR", 
+    "value": "Oise", 
+    "population": 821568
+  }, 
+  "Schwyz": {
+    "geonameid": "2658664", 
+    "country": "CH", 
+    "value": "Schwyz", 
+    "population": 135461
+  }, 
+  "Bruxelles-Capitale": {
+    "geonameid": "2800867", 
+    "country": "BE", 
+    "value": "Bruxelles-Capitale", 
+    "population": 1830000
+  }, 
+  "Cantal": {
+    "geonameid": "3028791", 
+    "country": "FR", 
+    "value": "Cantal", 
+    "population": 154354
+  }, 
+  "Bâle-Ville": [
+    {
+      "geonameid": "2661602", 
+      "country": "CH", 
+      "value": "Bâle-Ville", 
+      "population": 195962
+    }, 
+    {
+      "geonameid": "6458763", 
+      "country": "CH", 
+      "value": "Bâle-Ville", 
+      "population": 0
+    }
+  ], 
+  "Lavaux-Oron": {
+    "geonameid": "7285005", 
+    "country": "CH", 
+    "value": "Lavaux-Oron", 
+    "population": 57061
+  }, 
+  "Yvelines": {
+    "geonameid": "2967196", 
+    "country": "FR", 
+    "value": "Yvelines", 
+    "population": 1433447
+  }, 
+  "Charente": {
+    "geonameid": "3026646", 
+    "country": "FR", 
+    "value": "Charente", 
+    "population": 363913
+  }, 
+  "Canton de Mersch": {
+    "geonameid": "6693293", 
+    "country": "LU", 
+    "value": "Canton de Mersch", 
+    "population": 0
+  }, 
+  "Département de la Haute-Corse": {
+    "geonameid": "3013793", 
+    "country": "FR", 
+    "value": "Département de la Haute-Corse", 
+    "population": 167103
+  }, 
+  "Ville de Differdange": {
+    "geonameid": "2960652", 
+    "country": "LU", 
+    "value": "Ville de Differdange", 
+    "population": 0
+  }, 
+  "Bouches-du-Rhône": {
+    "geonameid": "3031359", 
+    "country": "FR", 
+    "value": "Bouches-du-Rhône", 
+    "population": 1995094
+  }, 
+  "Meuse": {
+    "geonameid": "2994106", 
+    "country": "FR", 
+    "value": "Meuse", 
+    "population": 200417
+  }, 
+  "Orne": {
+    "geonameid": "2989247", 
+    "country": "FR", 
+    "value": "Orne", 
+    "population": 302010
+  }, 
+  "Commune de la Vallée de l’Ernz": {
+    "geonameid": "8641526", 
+    "country": "LU", 
+    "value": "Commune de la Vallée de l’Ernz", 
+    "population": 0
+  }, 
+  "Morges": {
+    "geonameid": "6458855", 
+    "country": "CH", 
+    "value": "Morges", 
+    "population": 75725
+  }, 
+  "Maine-et-Loire": {
+    "geonameid": "2996663", 
+    "country": "FR", 
+    "value": "Maine-et-Loire", 
+    "population": 803573
+  }, 
+  "Goesdorf": {
+    "geonameid": "6693325", 
+    "country": "LU", 
+    "value": "Goesdorf", 
+    "population": 0
+  }, 
+  "Vaucluse": {
+    "geonameid": "2970554", 
+    "country": "FR", 
+    "value": "Vaucluse", 
+    "population": 551922
+  }, 
+  "Zoug": [
+    {
+      "geonameid": "2657907", 
+      "country": "CH", 
+      "value": "Zoug", 
+      "population": 106352
+    }, 
+    {
+      "geonameid": "6458807", 
+      "country": "CH", 
+      "value": "Zoug", 
+      "population": 0
+    }
+  ], 
+  "Flandre": {
+    "geonameid": "3337388", 
+    "country": "BE", 
+    "value": "Flandre", 
+    "population": 6350765
+  }, 
+  "Boudry": {
+    "geonameid": "6458825", 
+    "country": "CH", 
+    "value": "Boudry", 
+    "population": 39133
+  }, 
+  "Commune de Schifflange": {
+    "geonameid": "2960103", 
+    "country": "LU", 
+    "value": "Commune de Schifflange", 
+    "population": 0
+  }, 
+  "Uri": {
+    "geonameid": "2658226", 
+    "country": "CH", 
+    "value": "Uri", 
+    "population": 34088
+  }, 
+  "Ordino": {
+    "geonameid": "3039676", 
+    "country": "AD", 
+    "value": "Ordino", 
+    "population": 3467
+  }, 
+  "Extérieur": {
+    "geonameid": "2661739", 
+    "country": "CH", 
+    "value": "Extérieur", 
+    "population": 51829
+  }, 
+  "Hauts-de-Seine": {
+    "geonameid": "3013657", 
+    "country": "FR", 
+    "value": "Hauts-de-Seine", 
+    "population": 1579457
+  }, 
+  "Nyon": {
+    "geonameid": "7285006", 
+    "country": "CH", 
+    "value": "Nyon", 
+    "population": 91834
+  }, 
+  "Pyrenees-Atlantiques": {
+    "geonameid": "2984887", 
+    "country": "FR", 
+    "value": "Pyrenees-Atlantiques", 
+    "population": 671644
+  }, 
+  "Nouvelle-Aquitaine": {
+    "geonameid": "11071620", 
+    "country": "FR", 
+    "value": "Nouvelle-Aquitaine", 
+    "population": 5808594
+  }, 
+  "Genève": [
+    {
+      "geonameid": "2660645", 
+      "country": "CH", 
+      "value": "Genève", 
+      "population": 433978
+    }, 
+    {
+      "geonameid": "6458783", 
+      "country": "CH", 
+      "value": "Genève", 
+      "population": 0
+    }
+  ], 
+  "Sant Julià de Lòria": {
+    "geonameid": "3039162", 
+    "country": "AD", 
+    "value": "Sant Julià de Lòria", 
+    "population": 9448
+  }, 
+  "Zurich": {
+    "geonameid": "2657895", 
+    "country": "CH", 
+    "value": "Zurich", 
+    "population": 1289559
+  }, 
+  "Département du Rhône": {
+    "geonameid": "2987410", 
+    "country": "FR", 
+    "value": "Département du Rhône", 
+    "population": 1738949
+  }, 
+  "Pas-de-Calais": {
+    "geonameid": "2988430", 
+    "country": "FR", 
+    "value": "Pas-de-Calais", 
+    "population": 1488951
+  }, 
+  "Glaris": {
+    "geonameid": "2660593", 
+    "country": "CH", 
+    "value": "Glaris", 
+    "population": 37372
+  }, 
+  "Aude": {
+    "geonameid": "3036264", 
+    "country": "FR", 
+    "value": "Aude", 
+    "population": 363420
+  }, 
+  "Limbourg": {
+    "geonameid": "2792347", 
+    "country": "BE", 
+    "value": "Limbourg", 
+    "population": 0
+  }, 
+  "Sion": {
+    "geonameid": "6458745", 
+    "country": "CH", 
+    "value": "Sion", 
+    "population": 43759
+  }, 
+  "Glâne": {
+    "geonameid": "2660598", 
+    "country": "CH", 
+    "value": "Glâne", 
+    "population": 21790
+  }, 
+  "Haute-Saône": {
+    "geonameid": "3013737", 
+    "country": "FR", 
+    "value": "Haute-Saône", 
+    "population": 246975
+  }, 
+  "Wallonie": {
+    "geonameid": "3337387", 
+    "country": "BE", 
+    "value": "Wallonie", 
+    "population": 3585214
+  }, 
+  "Gros-de-Vaud": {
+    "geonameid": "7285003", 
+    "country": "CH", 
+    "value": "Gros-de-Vaud", 
+    "population": 39840
+  }, 
+  "Luxembourg": {
+    "geonameid": "2791993", 
+    "country": "BE", 
+    "value": "Luxembourg", 
+    "population": 255945
+  }, 
+  "District de Schwytz": {
+    "geonameid": "6458775", 
+    "country": "CH", 
+    "value": "District de Schwytz", 
+    "population": 52704
+  }, 
+  "Morbihan": {
+    "geonameid": "2991879", 
+    "country": "FR", 
+    "value": "Morbihan", 
+    "population": 739144
+  }, 
+  "Lot": {
+    "geonameid": "2997524", 
+    "country": "FR", 
+    "value": "Lot", 
+    "population": 180305
+  }, 
+  "Alpes-de-Haute-Provence": {
+    "geonameid": "3038050", 
+    "country": "FR", 
+    "value": "Alpes-de-Haute-Provence", 
+    "population": 164519
+  }, 
+  "Département de la Loire": {
+    "geonameid": "2997870", 
+    "country": "FR", 
+    "value": "Département de la Loire", 
+    "population": 763867
+  }, 
+  "District de Vallemaggia": {
+    "geonameid": "2658196", 
+    "country": "CH", 
+    "value": "District de Vallemaggia", 
+    "population": 5944
+  }, 
+  "Département d'Indre-et-Loire": {
+    "geonameid": "3012804", 
+    "country": "FR", 
+    "value": "Département d'Indre-et-Loire", 
+    "population": 603337
+  }, 
+  "Andorre-la-Vieille": {
+    "geonameid": "3041566", 
+    "country": "AD", 
+    "value": "Andorre-la-Vieille", 
+    "population": 24211
+  }, 
+  "Savoie": {
+    "geonameid": "2975517", 
+    "country": "FR", 
+    "value": "Savoie", 
+    "population": 424578
+  }, 
+  "District de Conthey": {
+    "geonameid": "6458850", 
+    "country": "CH", 
+    "value": "District de Conthey", 
+    "population": 25377
+  }, 
+  "Loiret": {
+    "geonameid": "2997857", 
+    "country": "FR", 
+    "value": "Loiret", 
+    "population": 672142
+  }, 
+  "Manche": {
+    "geonameid": "2996268", 
+    "country": "FR", 
+    "value": "Manche", 
+    "population": 516065
+  }, 
+  "La Massana": {
+    "geonameid": "3040131", 
+    "country": "AD", 
+    "value": "La Massana", 
+    "population": 8953
+  }, 
+  "Franches-Montagnes": {
+    "geonameid": "6458790", 
+    "country": "CH", 
+    "value": "Franches-Montagnes", 
+    "population": 10070
+  }, 
+  "Veveyse": {
+    "geonameid": "6458862", 
+    "country": "CH", 
+    "value": "Veveyse", 
+    "population": 16952
+  }, 
+  "Commune de Sanem": {
+    "geonameid": "2960116", 
+    "country": "LU", 
+    "value": "Commune de Sanem", 
+    "population": 0
+  }, 
+  "Département de l'Essonne": {
+    "geonameid": "3019599", 
+    "country": "FR", 
+    "value": "Département de l'Essonne", 
+    "population": 1225717
+  }, 
+  "Ville de Grevenmacher": {
+    "geonameid": "2960516", 
+    "country": "LU", 
+    "value": "Ville de Grevenmacher", 
+    "population": 0
+  }, 
+  "District de la Broye": {
+    "geonameid": "6458754", 
+    "country": "CH", 
+    "value": "District de la Broye", 
+    "population": 28448
+  }, 
+  "Ardennes": {
+    "geonameid": "3037136", 
+    "country": "FR", 
+    "value": "Ardennes", 
+    "population": 291717
+  }, 
+  "Martigny": {
+    "geonameid": "2659752", 
+    "country": "CH", 
+    "value": "Martigny", 
+    "population": 43453
+  }, 
+  "Puy-de-Dôme": {
+    "geonameid": "2984986", 
+    "country": "FR", 
+    "value": "Puy-de-Dôme", 
+    "population": 646908
+  }, 
+  "Schaffhouse": {
+    "geonameid": "2658760", 
+    "country": "CH", 
+    "value": "Schaffhouse", 
+    "population": 73443
+  }, 
+  "Vosges": {
+    "geonameid": "2967681", 
+    "country": "FR", 
+    "value": "Vosges", 
+    "population": 393474
+  }, 
+  "Marne": {
+    "geonameid": "2995603", 
+    "country": "FR", 
+    "value": "Marne", 
+    "population": 580402
+  }, 
+  "Saône-et-Loire": {
+    "geonameid": "2976082", 
+    "country": "FR", 
+    "value": "Saône-et-Loire", 
+    "population": 574002
+  }, 
+  "Riviera-Pays-d'Enhaut": {
+    "geonameid": "7285009", 
+    "country": "CH", 
+    "value": "Riviera-Pays-d'Enhaut", 
+    "population": 81200
+  }, 
+  "Province de Liège": {
+    "geonameid": "2792411", 
+    "country": "BE", 
+    "value": "Province de Liège", 
+    "population": 0
+  }, 
+  "Gruyère": {
+    "geonameid": "6458796", 
+    "country": "CH", 
+    "value": "Gruyère", 
+    "population": 49022
+  }, 
+  "Pays de la Loire": {
+    "geonameid": "2988289", 
+    "country": "FR", 
+    "value": "Pays de la Loire", 
+    "population": 3482594
+  }, 
+  "Aigle": {
+    "geonameid": "6458896", 
+    "country": "CH", 
+    "value": "Aigle", 
+    "population": 41736
+  }, 
+  "Haute-Garonne": {
+    "geonameid": "3013767", 
+    "country": "FR", 
+    "value": "Haute-Garonne", 
+    "population": 1254347
+  }, 
+  "Pyrénées-Orientales": {
+    "geonameid": "2984885", 
+    "country": "FR", 
+    "value": "Pyrénées-Orientales", 
+    "population": 454737
+  }, 
+  "Canton de Fribourg": {
+    "geonameid": "2660717", 
+    "country": "CH", 
+    "value": "Canton de Fribourg", 
+    "population": 248953
+  }, 
+  "Aube": {
+    "geonameid": "3036420", 
+    "country": "FR", 
+    "value": "Aube", 
+    "population": 311676
+  }, 
+  "Le Locle": {
+    "geonameid": "6458809", 
+    "country": "CH", 
+    "value": "Le Locle", 
+    "population": 14247
+  }, 
+  "Schengen": {
+    "geonameid": "6693353", 
+    "country": "LU", 
+    "value": "Schengen", 
+    "population": 0
+  }, 
+  "Occitanie": {
+    "geonameid": "11071623", 
+    "country": "FR", 
+    "value": "Occitanie", 
+    "population": 5626858
+  }, 
+  "Isère": {
+    "geonameid": "3012715", 
+    "country": "FR", 
+    "value": "Isère", 
+    "population": 1223730
+  }, 
+  "Département d'Eure-et-Loir": {
+    "geonameid": "3019316", 
+    "country": "FR", 
+    "value": "Département d'Eure-et-Loir", 
+    "population": 436966
+  }, 
+  "Canillo": {
+    "geonameid": "3041203", 
+    "country": "AD", 
+    "value": "Canillo", 
+    "population": 5067
+  }, 
+  "District de Zurich": {
+    "geonameid": "6458798", 
+    "country": "CH", 
+    "value": "District de Zurich", 
+    "population": 380777
+  }, 
+  "Tarn-et-Garonne": {
+    "geonameid": "2973357", 
+    "country": "FR", 
+    "value": "Tarn-et-Garonne", 
+    "population": 245857
+  }, 
+  "Commune de Kayl": {
+    "geonameid": "2960392", 
+    "country": "LU", 
+    "value": "Commune de Kayl", 
+    "population": 0
+  }, 
+  "Val-de-Travers": {
+    "geonameid": "6458835", 
+    "country": "CH", 
+    "value": "Val-de-Travers", 
+    "population": 11998
+  }, 
+  "Flandre Orientale": {
+    "geonameid": "2789733", 
+    "country": "BE", 
+    "value": "Flandre Orientale", 
+    "population": 1376407
+  }, 
+  "Ouest Lausannois": {
+    "geonameid": "7285007", 
+    "country": "CH", 
+    "value": "Ouest Lausannois", 
+    "population": 69913
+  }, 
+  "Indre": {
+    "geonameid": "3012805", 
+    "country": "FR", 
+    "value": "Indre", 
+    "population": 239443
+  }, 
+  "Aisne": {
+    "geonameid": "3038375", 
+    "country": "FR", 
+    "value": "Aisne", 
+    "population": 554521
+  }, 
+  "Escaldes-Engordany": {
+    "geonameid": "3338529", 
+    "country": "AD", 
+    "value": "Escaldes-Engordany", 
+    "population": 16391
+  }, 
+  "Val-de-Ruz": {
+    "geonameid": "6458812", 
+    "country": "CH", 
+    "value": "Val-de-Ruz", 
+    "population": 16405
+  }, 
+  "Ariège": {
+    "geonameid": "3036965", 
+    "country": "FR", 
+    "value": "Ariège", 
+    "population": 156701
+  }, 
+  "Kiischpelt": {
+    "geonameid": "8641289", 
+    "country": "LU", 
+    "value": "Kiischpelt", 
+    "population": 0
+  }, 
+  "Haute-Savoie": {
+    "geonameid": "3013736", 
+    "country": "FR", 
+    "value": "Haute-Savoie", 
+    "population": 747965
+  }, 
+  "Grand Est": {
+    "geonameid": "11071622", 
+    "country": "FR", 
+    "value": "Grand Est", 
+    "population": 5552388
+  }, 
+  "Canton du Valais": {
+    "geonameid": "2658205", 
+    "country": "CH", 
+    "value": "Canton du Valais", 
+    "population": 284653
+  }, 
+  "Gers": {
+    "geonameid": "3016194", 
+    "country": "FR", 
+    "value": "Gers", 
+    "population": 194560
+  }, 
+  "Clervaux": {
+    "geonameid": "2960683", 
+    "country": "LU", 
+    "value": "Clervaux", 
+    "population": 13237
+  }, 
+  "Bourgogne-Franche-Comté": {
+    "geonameid": "11071619", 
+    "country": "FR", 
+    "value": "Bourgogne-Franche-Comté", 
+    "population": 2816814
+  }, 
+  "Nord": {
+    "geonameid": "2990129", 
+    "country": "FR", 
+    "value": "Nord", 
+    "population": 2613285
+  }, 
+  "Île-de-France": {
+    "geonameid": "3012874", 
+    "country": "FR", 
+    "value": "Île-de-France", 
+    "population": 11598866
+  }, 
+  "Sierre": {
+    "geonameid": "6458795", 
+    "country": "CH", 
+    "value": "Sierre", 
+    "population": 47198
+  }, 
+  "Allier": {
+    "geonameid": "3038111", 
+    "country": "FR", 
+    "value": "Allier", 
+    "population": 353362
+  }, 
+  "Charente-Maritime": {
+    "geonameid": "3026644", 
+    "country": "FR", 
+    "value": "Charente-Maritime", 
+    "population": 634928
+  }, 
+  "Creuse": {
+    "geonameid": "3022516", 
+    "country": "FR", 
+    "value": "Creuse", 
+    "population": 128435
+  }, 
+  "Luxembourg Campagne": {
+    "geonameid": "2960315", 
+    "country": "LU", 
+    "value": "Luxembourg Campagne", 
+    "population": 0
+  }, 
+  "Landes": {
+    "geonameid": "3007866", 
+    "country": "FR", 
+    "value": "Landes", 
+    "population": 392592
+  }, 
+  "Hautes-Pyrénées": {
+    "geonameid": "3013726", 
+    "country": "FR", 
+    "value": "Hautes-Pyrénées", 
+    "population": 238031
+  }, 
+  "Cotes-d'Armor": {
+    "geonameid": "3023414", 
+    "country": "FR", 
+    "value": "Cotes-d'Armor", 
+    "population": 608356
+  }, 
+  "Neuchâtel": [
+    {
+      "geonameid": "2659495", 
+      "country": "CH", 
+      "value": "Neuchâtel", 
+      "population": 168810
+    }, 
+    {
+      "geonameid": "6458886", 
+      "country": "CH", 
+      "value": "Neuchâtel", 
+      "population": 53323
+    }
+  ], 
+  "Lac": {
+    "geonameid": "6458820", 
+    "country": "CH", 
+    "value": "Lac", 
+    "population": 33924
+  }, 
+  "Lausanne": {
+    "geonameid": "6458866", 
+    "country": "CH", 
+    "value": "Lausanne", 
+    "population": 154096
+  }, 
+  "Drôme": {
+    "geonameid": "3020781", 
+    "country": "FR", 
+    "value": "Drôme", 
+    "population": 497487
+  }, 
+  "Aveyron": {
+    "geonameid": "3035691", 
+    "country": "FR", 
+    "value": "Aveyron", 
+    "population": 288634
+  }, 
+  "District d'Entremont": {
+    "geonameid": "6458768", 
+    "country": "CH", 
+    "value": "District d'Entremont", 
+    "population": 14517
+  }, 
+  "Somme": {
+    "geonameid": "2974304", 
+    "country": "FR", 
+    "value": "Somme", 
+    "population": 582469
+  }, 
+  "Hérens": {
+    "geonameid": "6458872", 
+    "country": "CH", 
+    "value": "Hérens", 
+    "population": 10623
+  }, 
+  "Nièvre": {
+    "geonameid": "2990371", 
+    "country": "FR", 
+    "value": "Nièvre", 
+    "population": 227740
+  }, 
+  "Seine-Saint-Denis": {
+    "geonameid": "2975246", 
+    "country": "FR", 
+    "value": "Seine-Saint-Denis", 
+    "population": 1528413
+  }, 
+  "Hainaut": {
+    "geonameid": "2796741", 
+    "country": "BE", 
+    "value": "Hainaut", 
+    "population": 0
+  }, 
+  "Ville d’Ettelbruck": {
+    "geonameid": "2960590", 
+    "country": "LU", 
+    "value": "Ville d’Ettelbruck", 
+    "population": 0
+  }, 
+  "Seine-Maritime": {
+    "geonameid": "2975248", 
+    "country": "FR", 
+    "value": "Seine-Maritime", 
+    "population": 1275483
+  }, 
+  "Dordogne": {
+    "geonameid": "3021042", 
+    "country": "FR", 
+    "value": "Dordogne", 
+    "population": 424456
+  }, 
+  "Lot-et-Garonne": {
+    "geonameid": "2997523", 
+    "country": "FR", 
+    "value": "Lot-et-Garonne", 
+    "population": 341132
+  }, 
+  "Canton de Vaud": {
+    "geonameid": "2658182", 
+    "country": "CH", 
+    "value": "Canton de Vaud", 
+    "population": 646233
+  }, 
+  "Thurgovie": {
+    "geonameid": "2658372", 
+    "country": "CH", 
+    "value": "Thurgovie", 
+    "population": 230600
+  }, 
+  "Canton d'Echternach": {
+    "geonameid": "2960629", 
+    "country": "LU", 
+    "value": "Canton d'Echternach", 
+    "population": 0
+  }, 
+  "Broye-Vully": {
+    "geonameid": "7285002", 
+    "country": "CH", 
+    "value": "Broye-Vully", 
+    "population": 38418
+  }, 
+  "Hauts-de-France": {
+    "geonameid": "11071624", 
+    "country": "FR", 
+    "value": "Hauts-de-France", 
+    "population": 5973098
+  }, 
+  "Centre-Val de Loire": {
+    "geonameid": "3027939", 
+    "country": "FR", 
+    "value": "Centre-Val de Loire", 
+    "population": 2526919
+  }, 
+  "Cher": {
+    "geonameid": "3025480", 
+    "country": "FR", 
+    "value": "Cher", 
+    "population": 319423
+  }, 
+  "Provence-Alpes-Côte d'Azur": {
+    "geonameid": "2985244", 
+    "country": "FR", 
+    "value": "Provence-Alpes-Côte d'Azur", 
+    "population": 4864015
+  }, 
+  "Bas-Rhin": {
+    "geonameid": "3034720", 
+    "country": "FR", 
+    "value": "Bas-Rhin", 
+    "population": 1113207
+  }, 
+  "Territoire de Belfort": {
+    "geonameid": "3033789", 
+    "country": "FR", 
+    "value": "Territoire de Belfort", 
+    "population": 145987
+  }, 
+  "Commune de Bettembourg": {
+    "geonameid": "2960778", 
+    "country": "LU", 
+    "value": "Commune de Bettembourg", 
+    "population": 0
+  }, 
+  "Lucerne": {
+    "geonameid": "2659810", 
+    "country": "CH", 
+    "value": "Lucerne", 
+    "population": 362215
+  }, 
+  "Grisons": {
+    "geonameid": "2660522", 
+    "country": "CH", 
+    "value": "Grisons", 
+    "population": 181081
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "weather-skill",
+  "version": "1.0.0",
+  "description": "skill for weather app",
+  "main": "action-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menoude/weather.git"
+  },
+  "author": "menoude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menoude/weather/issues"
+  },
+  "homepage": "https://github.com/menoude/weather#readme",
+  "dependencies": {
+    "moment": "^2.23.0",
+    "mqtt": "^2.18.8"
+  }
+}
