@@ -9,7 +9,7 @@ Skill for the Snips assistant, En &amp; Fr
 
 ## Usage
 
-### By voice
+### Through sam
 
 `sam install assistant` (asks for the API key)
 
@@ -17,9 +17,11 @@ Skill for the Snips assistant, En &amp; Fr
 
 On the raspi on another terminal `journaltctl -u snips-skill-server -f`
 
-### With Written tests
+### Manually (preferred)
 
-On the Raspi
+Directly clone anywhere on the Raspi.
+
+Create a `config.ini` with `./setup.sh` and add the API key (with double quotes) in the corresponding entry in `config.ini`
 
 Launch: `./action-code.js`
 
